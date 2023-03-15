@@ -11,6 +11,7 @@
     "url": "https://github.com/chromaui/intro-storybook-react-template/issues"
   },
   "license": "MIT",
+  "homepage": "https://diego-adrian.github.io/demo/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
